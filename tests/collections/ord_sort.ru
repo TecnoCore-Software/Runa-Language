@@ -1,0 +1,2 @@
+numbers = {30, 10, 20}
+printr(sort(numbers))

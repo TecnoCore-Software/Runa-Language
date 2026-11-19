@@ -1,0 +1,3 @@
+loop [
+    printr(1)
+]

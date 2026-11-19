@@ -1,0 +1,613 @@
+# TECNOCORE SOFTWARE LICENSE
+## TCSL — VERSION 1.0
+
+**License Name:** TecnoCore Software License  
+**Abbreviation:** TCSL  
+**License Version:** 1.0  
+**Publisher:** TecnoCore Software  
+**Publisher's Legal Entity:** [Legal name to be completed]  
+**Publication Date:** [YYYY-MM-DD]  
+**Effective Date:** [YYYY-MM-DD]  
+**Governing Law:** [Jurisdiction to be completed]  
+**Official Contact:** [Official contact address]  
+**Official Publication Location:** [Official URL or repository]
+
+**Document Status:** Complete Draft — Pending Legal and Jurisdictional Review
+
+---
+
+# PREAMBLE
+
+The TecnoCore Software License (TCSL) is a standardized intellectual property licensing framework published and maintained by TecnoCore Software.
+
+TCSL establishes common rules for the use, modification, distribution, and licensing of intellectual property identified under this License.
+
+TCSL is intended for software, games, development tools, digital assets, creative works, technical materials, and expressly identified hardware-related intellectual property.
+
+TCSL may be adopted by TecnoCore projects, independent developers, companies, organizations, and other authorized rights holders.
+
+Each Product licensed under TCSL must have its own valid MY IPL document. MY IPL identifies the Product, the responsible Rights Holder, the licensed materials, and the Product-specific permissions granted under TCSL.
+
+TCSL does not transfer ownership of a Product to TecnoCore Software. The rights to each Product remain with its respective Rights Holder, except where ownership has been validly transferred under a separate agreement.
+
+---
+
+# 1. INTRODUCTION AND SCOPE
+
+**1.1.** TCSL applies to intellectual property expressly identified as being licensed under this License and the corresponding MY IPL document.
+
+**1.2.** Covered Products may include, but are not limited to:
+
+- Software, applications, libraries, source code, executable files, and development tools.
+- Video games, game engines, game assets, and interactive applications.
+- Music, sound recordings, sound effects, and other audio works.
+- Images, illustrations, photographs, textures, animations, and visual assets.
+- 2D and 3D models, digital designs, and editable project files.
+- Fonts, documents, technical publications, and other digital materials.
+- Firmware, hardware-related designs, electronic documentation, and technical drawings.
+- Other intellectual property expressly identified in MY IPL.
+
+**1.3.** TCSL may apply to copyright, related rights, database rights, design rights, patent rights, trademark rights, trade secrets, and other intellectual property rights only to the extent that the relevant rights are expressly identified in MY IPL and the Licensor has the legal authority to license them.
+
+**1.4.** Unless MY IPL expressly identifies additional rights, no patent license, trademark license, manufacturing permission, trade-secret disclosure permission, or other separate intellectual property permission is granted merely by referencing TCSL.
+
+**1.5.** TCSL governs intellectual property rights. It does not automatically transfer ownership of a physical device, physical copy, storage medium, or other tangible property.
+
+**1.6.** The scope of every Product license must be identifiable from its MY IPL document. Materials not identified as part of the licensed Product are not automatically included.
+
+---
+
+# 2. DEFINITIONS
+
+For the purposes of TCSL:
+
+**2.1. TCSL Publisher:** TecnoCore Software, acting as the publisher and maintainer of the TCSL framework.
+
+**2.2. Licensor:** The individual or legal entity identified in MY IPL as the Rights Holder or as a person legally authorized to grant the relevant license.
+
+**2.3. Licensee:** The individual or legal entity receiving and exercising permissions under TCSL and the applicable MY IPL.
+
+**2.4. Product:** The software, game, digital work, hardware-related intellectual property, or other material specifically identified in MY IPL.
+
+**2.5. Author:** A person who actually created an identifiable contribution to the Product.
+
+**2.6. Contributor:** A person or organization that created, modified, developed, or supplied an identifiable part of the Product.
+
+**2.7. Rights Holder:** The person or legal entity that owns the relevant intellectual property rights or is legally authorized to license them.
+
+**2.8. MY IPL:** The product-specific intellectual property license document used together with TCSL.
+
+**2.9. Modification:** An alteration, adaptation, extension, correction, translation, redesign, or other change to the Product.
+
+**2.10. Modified Product:** A Product that includes one or more Modifications.
+
+**2.11. Source Materials:** The preferred editable materials used to create, inspect, maintain, reproduce, or modify the relevant part of a Product.
+
+Depending on the Product type, Source Materials may include source code, project files, editable design files, modeling files, audio project files, configuration files, firmware source, and technical documentation.
+
+**2.12. Third-Party Component:** A component, asset, library, work, tool, or other material that is not owned or controlled by the Licensor.
+
+**2.13. Commercial Use:** Use of a Product for financial gain, paid distribution, commercial services, business operations, licensing revenue, or another activity primarily intended for commercial benefit.
+
+**2.14. Public Distribution:** Making a Product or Modified Product available to the public, whether for free or for payment.
+
+**2.15. AI Training:** The use of a Product or its contents to train, fine-tune, develop, evaluate, or construct training datasets for artificial-intelligence or machine-learning systems.
+
+**2.16. Assignment:** A legally effective transfer of ownership of specified intellectual property rights from one person or entity to another.
+
+**2.17. Sublicense:** A permission granted by a Licensee to another person or entity to exercise rights that the Licensee received from the Licensor.
+
+**2.18. Applicable Law:** The laws and mandatory legal rules applicable to the relevant parties, Product, intellectual property rights, and licensing activity.
+
+---
+
+# 3. ACCEPTANCE AND PRODUCT IDENTIFICATION
+
+**3.1.** A Product is officially licensed under TCSL only when it is accompanied by a valid MY IPL document that identifies the Product and its Licensor.
+
+**3.2.** The Licensee must have the legal capacity to accept the applicable license or obtain acceptance through a legally authorized representative where required by Applicable Law.
+
+**3.3.** Acceptance may take place through a written agreement, an electronic acceptance procedure, or another legally recognized method.
+
+**3.4.** The MY IPL document must identify the applicable TCSL version. A reference to TCSL without a version number is insufficient to identify the applicable version.
+
+**3.5.** If MY IPL is missing, invalid, or does not sufficiently identify the Product or Rights Holder, no additional Product-specific permissions are granted under that document.
+
+**3.6.** This Section does not remove rights or exceptions that Applicable Law grants independently of TCSL.
+
+---
+
+# 4. RELATIONSHIP BETWEEN TCSL AND MY IPL
+
+**4.1.** TCSL establishes the mandatory framework. MY IPL specifies the Product-specific permissions, restrictions, and additional conditions permitted by that framework.
+
+**4.2.** MY IPL may grant additional permissions only in areas that TCSL expressly allows to be customized.
+
+**4.3.** MY IPL may specify conditions for personal-use-related limitations, distribution, commercial activities, Modified Products, integration into other Products, sublicensing, transfers, and AI Training only within the boundaries established by TCSL.
+
+**4.4.** MY IPL must not remove, weaken, or contradict mandatory provisions of TCSL.
+
+**4.5.** If MY IPL conflicts with TCSL, TCSL takes precedence to the extent of the conflict.
+
+**4.6.** A separate Third-Party Component license governs that component to the extent that the component is subject to the separate license. This does not automatically change the license governing the remainder of the Product.
+
+**4.7.** Mandatory provisions of Applicable Law take precedence over conflicting contractual language to the extent required by law.
+
+**4.8.** Any Product-specific term that is unclear, incomplete, or left blank does not create an additional permission. Optional permissions are not granted unless MY IPL expressly identifies them as granted.
+
+**4.9.** Owner-defined terms in MY IPL may clarify or supplement the Product-specific conditions, but they must remain consistent with TCSL and must not claim rights that the Licensor does not own or control.
+
+---
+
+# 5. OWNERSHIP AND COPYRIGHT
+
+**5.1.** All intellectual property rights in the Product remain with their respective Rights Holders unless those rights have been validly assigned or transferred.
+
+**5.2.** Receiving a copy of a Product, purchasing access to it, or receiving a license does not automatically transfer copyright or other intellectual property ownership.
+
+**5.3.** The Author, Contributor, Project Lead, Project Originator, and current Rights Holder are distinct roles and must not be treated as interchangeable.
+
+**5.4.** MY IPL must identify the actual Authors and the current Rights Holder separately.
+
+**5.5.** A project founder, originator, manager, or Project Lead may receive appropriate project credit. Such credit alone does not automatically establish ownership of every contribution.
+
+**5.6.** Each Contributor retains rights in their own contributions to the extent provided by Applicable Law and any valid written agreement.
+
+**5.7.** Where multiple people or organizations contribute to a Product, the Licensor must have the necessary rights or permissions from each relevant Rights Holder before licensing the entire Product.
+
+**5.8.** A Contributor may be added to the Product's copyright or contributor information where the relevant Rights Holder has authorized that addition and the person's contribution is accurately described.
+
+**5.9.** No Licensee may falsely claim authorship, ownership, copyright, or exclusive control over a Product or another person's contribution.
+
+**5.10.** Copyright and ownership notices must be preserved unless a lawful written agreement or Applicable Law requires otherwise.
+
+**5.11.** TCSL does not create ownership of an idea, concept, method, or general principle merely because that idea is described in a Product. The legal protection of ideas, inventions, confidential information, and other intellectual property categories depends on the relevant law and right.
+
+---
+
+# 6. LICENSE GRANT
+
+**6.1.** Subject to TCSL and the applicable MY IPL, the Licensor grants the Licensee a non-exclusive license to exercise the permissions expressly granted for the Product.
+
+**6.2.** The license is limited to the identified Product, licensed materials, rights, versions, uses, and conditions.
+
+**6.3.** Unless MY IPL specifies a narrower territory, the license is intended to apply worldwide to the extent that the Licensor owns or controls the relevant rights and Applicable Law permits.
+
+**6.4.** The license may not extend beyond the duration of the relevant intellectual property rights. A shorter license period may be specified in MY IPL.
+
+**6.5.** Personal-use and private-modification permissions are granted under Section 7, subject to the mandatory provisions of Applicable Law.
+
+**6.6.** Public Distribution, Commercial Use, sublicensing, incorporation into other Products, and AI Training are not granted by implication. They require express authorization under MY IPL.
+
+**6.7.** The license does not grant ownership of the Product or any right not expressly included in TCSL or MY IPL.
+
+**6.8.** Unless expressly authorized, the license is not transferable and does not include sublicensing rights.
+
+**6.9.** The license is non-exclusive unless a separate written agreement expressly provides otherwise and the Licensor has authority to grant exclusivity.
+
+---
+
+# 7. PERSONAL USE AND PRIVATE MODIFICATION
+
+**7.1.** The Licensee may use a lawfully obtained Product for personal, non-commercial purposes.
+
+**7.2.** The Licensee may install, access, execute, display, listen to, or otherwise use the Product for its intended lawful purpose.
+
+**7.3.** The Licensee may make private Modifications for personal use.
+
+**7.4.** Private Modifications must not be publicly distributed, commercially exploited, or incorporated into another Product unless the applicable MY IPL grants the required permission.
+
+**7.5.** The Licensee may create reasonable personal backups where permitted by Applicable Law and the applicable Product conditions.
+
+**7.6.** For software Products, lawful users retain any mandatory legal rights to use, observe, study, test, or correct the software where such rights cannot be excluded by contract.
+
+**7.7.** Ordinary human learning, inspection, commentary, or understanding of a Product does not by itself constitute AI Training.
+
+**7.8.** The permissions in this Section do not authorize the Licensee to distribute a complete copy of the Product or to present a private Modification as an official release.
+
+---
+
+# 8. PUBLIC PRESENTATION, REVIEWS, AND EDUCATIONAL USE
+
+**8.1.** Subject to this Section, the Licensee may create commentary, reviews, demonstrations, educational presentations, tutorials, and gameplay or product-use videos based on a lawfully obtained Product.
+
+**8.2.** Such presentations may show portions of the Product reasonably necessary for the commentary, review, demonstration, educational purpose, or gameplay presentation.
+
+**8.3.** This permission does not authorize the separate redistribution of the complete Product, its source code, standalone assets, or substantial portions that replace the need to obtain the Product itself.
+
+**8.4.** Commercial monetization of such presentations is governed by the Commercial Use permission in MY IPL. Where Commercial Use is not granted, this Section does not independently authorize monetization.
+
+**8.5.** Product-specific restrictions, attribution requirements, privacy obligations, and Third-Party Component rights must be respected.
+
+---
+
+# 9. RESTRICTIONS AND PROHIBITED ACTIVITIES
+
+**9.1.** The Licensee must not claim ownership of the Product or its original materials without valid legal authority.
+
+**9.2.** The Licensee must not remove, falsify, or conceal copyright, authorship, attribution, or ownership notices.
+
+**9.3.** The Licensee must not distribute the Product in a way that falsely represents the Product as an official release, an authorized version, or an endorsed Product of the Licensor or TCSL Publisher.
+
+**9.4.** The Licensee must not use the Product in violation of Applicable Law or the rights of other persons.
+
+**9.5.** The Licensee must not use TCSL as authority to access materials that are not included in the licensed Product or to obtain rights that the Licensor does not control.
+
+**9.6.** Nothing in this Section prohibits acts that Applicable Law expressly permits and that cannot legally be restricted by contract.
+
+**9.7.** Any restrictions on reverse engineering, interoperability testing, accessibility, backup copies, or other technical activities apply only to the extent permitted by Applicable Law.
+
+---
+
+# 10. MODIFICATION AND DERIVATIVE WORKS
+
+**10.1.** Private Modifications are permitted under Section 7.
+
+**10.2.** Public Distribution of a Modified Product requires express permission in the applicable MY IPL.
+
+**10.3.** A Modified Product may contain both the original Product materials and new contributions made by the Licensee or other Contributors.
+
+**10.4.** The original Rights Holder retains rights in the original Product materials.
+
+**10.5.** The Author or Rights Holder of a new contribution retains rights in that contribution to the extent provided by Applicable Law and any valid written agreement.
+
+**10.6.** No transfer of ownership in a Modification occurs merely because the Modification is based on a Product licensed under TCSL.
+
+**10.7.** Any Licensee distributing a Modified Product must have the necessary permissions for both the original Product materials and the new contributions.
+
+**10.8.** Significant changes must be identified, and a Modified Product must not be presented as an unmodified official release.
+
+**10.9.** The Licensee must not remove or falsify the original Product's ownership or attribution information.
+
+---
+
+# 11. SOURCE MATERIALS AND MODIFIED DISTRIBUTION
+
+**11.1.** When MY IPL permits Public Distribution of a Modified Product, the Licensee must publish the corresponding modified Source Materials.
+
+**11.2.** Source Materials must be made publicly accessible without an additional charge for access to those materials.
+
+**11.3.** Source Materials must be sufficient to identify, inspect, and continue the modifications made by the Licensee and, where reasonably possible, reproduce the Modified Product.
+
+**11.4.** The relevant Source Materials depend on the Product type:
+
+- **Software:** source code, relevant build files, configuration files, and necessary project materials.
+- **Games:** relevant game source code, scripts, project files, and editable assets created or modified by the Licensee.
+- **3D assets:** editable modeling files and project materials for the modifications.
+- **Audio:** relevant editable audio project files and source materials for the modifications.
+- **Visual works:** relevant editable design and project files.
+- **Hardware designs:** relevant editable design files, schematics, and documentation for the modifications.
+- **Firmware:** relevant firmware source and necessary build or configuration materials.
+
+**11.5.** The source publication requirement applies to the Licensee's corresponding modified materials. It does not automatically require disclosure of unrelated private materials or unrelated products.
+
+**11.6.** The Licensee must not publish Third-Party Components unless the relevant third-party license permits their disclosure and distribution.
+
+**11.7.** If a required Source Material cannot lawfully be disclosed, the Licensee must resolve the rights issue before distributing the Modified Product. A missing permission cannot be replaced by an unsupported claim of ownership.
+
+**11.8.** Source Materials must be published at the same time as, or no later than the public distribution of, the corresponding Modified Product.
+
+**11.9.** Source Materials must remain reasonably accessible while the Modified Product is publicly distributed.
+
+**11.10.** Recipients of a Modified Product must receive the permissions applicable to the Product and its modifications under TCSL and the relevant MY IPL.
+
+**11.11.** The Licensee may not impose additional restrictions that remove rights granted by TCSL to downstream recipients.
+
+**11.12.** Publishing Source Materials does not by itself grant Commercial Use, trademark rights, patent rights, or permission to use unrelated materials.
+
+---
+
+# 12. DISTRIBUTION AND REDISTRIBUTION
+
+**12.1.** Public Distribution of an unchanged Product is permitted only when expressly authorized by MY IPL, except to the extent Applicable Law independently permits it.
+
+**12.2.** Public Distribution of a Modified Product is subject to Sections 10 and 11 and the applicable MY IPL.
+
+**12.3.** The Licensee must provide recipients with the applicable TCSL and MY IPL information.
+
+**12.4.** The Licensee must not remove the license documents or ownership notices from distributed copies.
+
+**12.5.** The Licensee must not imply that a redistributed copy is supported, maintained, certified, or endorsed by the original Licensor unless expressly authorized.
+
+**12.6.** Distribution permission may be limited by Product version, platform, territory, recipient category, distribution method, or other conditions stated in MY IPL.
+
+---
+
+# 13. COMMERCIAL USE AND SALES
+
+**13.1.** Commercial Use is permitted only when expressly authorized by MY IPL.
+
+**13.2.** MY IPL may specify license fees, royalties, payment conditions, permitted sales channels, reporting obligations, or other commercial conditions.
+
+**13.3.** Personal-use permission does not automatically authorize Commercial Use.
+
+**13.4.** Sale of a Modified Product is permitted only when MY IPL expressly grants the necessary Commercial Use and Modified Distribution permissions.
+
+**13.5.** Any sale of a Modified Product remains subject to the Source Materials requirements in Section 11.
+
+**13.6.** The Licensee must not claim that the Licensor or TCSL Publisher endorses a commercial Product unless the relevant authorization expressly provides so.
+
+**13.7.** No payment or royalty is due solely by implication. Any commercial fee or royalty must be clearly identified in MY IPL or a separate written agreement.
+
+---
+
+# 14. USE IN OTHER PRODUCTS AND SUBLICENSING
+
+**14.1.** Incorporation, embedding, bundling, or integration of the Product into another product, application, game, platform, service, or distribution package requires express authorization in MY IPL.
+
+**14.2.** The authorization may identify permitted Product categories, platforms, technical uses, distribution channels, and commercial conditions.
+
+**14.3.** A Licensee may grant a Sublicense only when MY IPL expressly authorizes sublicensing.
+
+**14.4.** A Sublicense must remain within the rights and conditions granted by TCSL and MY IPL.
+
+**14.5.** A Licensee may not grant rights that exceed the rights it received or controls.
+
+**14.6.** Incorporation into another Product does not transfer ownership of the original Product.
+
+---
+
+# 15. AI TRAINING AND DATA USAGE
+
+**15.1.** AI Training involving a Product is not granted by default.
+
+**15.2.** AI Training is permitted only when MY IPL expressly authorizes the relevant activity.
+
+**15.3.** MY IPL may separately permit or prohibit:
+
+- Use of Product materials in training datasets.
+- Training of new AI or machine-learning models.
+- Fine-tuning or adaptation of existing models.
+- Model evaluation or benchmarking.
+- Use of Product materials for synthetic data generation.
+- Other expressly identified AI-related activities.
+
+**15.4.** An AI Training permission must identify its scope and any conditions, limitations, attribution requirements, or commercial restrictions.
+
+**15.5.** Silence in MY IPL does not constitute permission for AI Training.
+
+**15.6.** Ordinary human learning, review, commentary, education, and personal inspection are not automatically AI Training.
+
+**15.7.** Nothing in TCSL grants permission to collect, disclose, or process personal data in violation of Applicable Law.
+
+**15.8.** TCSL does not determine whether an independent statutory exception applies to a particular AI-related activity. Such questions remain subject to Applicable Law.
+
+---
+
+# 16. THIRD-PARTY COMPONENTS
+
+**16.1.** Third-Party Components remain subject to their respective licenses and ownership terms.
+
+**16.2.** MY IPL must identify known Third-Party Components and their applicable licenses or sources where reasonably available.
+
+**16.3.** TCSL does not replace, cancel, or expand the permissions granted by a Third-Party Component's license.
+
+**16.4.** The Licensor must not claim ownership over a Third-Party Component merely because it is included in the Product.
+
+**16.5.** The Licensee must comply with the license conditions applicable to Third-Party Components.
+
+**16.6.** Where a Third-Party Component is subject to a license that differs from TCSL, that separate license governs the component to the extent of the difference.
+
+**16.7.** If the necessary third-party permission is missing, the relevant component must not be distributed or used beyond the rights actually available.
+
+---
+
+# 17. ATTRIBUTION, TRADEMARKS, AND PRODUCT IDENTITY
+
+**17.1.** The Licensee must preserve the attribution and ownership information stated in MY IPL.
+
+**17.2.** If MY IPL requires attribution, the Licensee must provide that attribution in a reasonably visible and appropriate location for the relevant Product type.
+
+**17.3.** A Licensee may identify the Product by its genuine title for purposes of reference, compatibility, review, and identification.
+
+**17.4.** TCSL does not automatically grant permission to use the Licensor's or TCSL Publisher's trademarks, logos, registered marks, brand identities, or official visual assets.
+
+**17.5.** Any trademark or brand-use permission must be expressly granted in MY IPL or a separate written authorization.
+
+**17.6.** The Licensee must not imply endorsement, affiliation, certification, or official support where none exists.
+
+**17.7.** A Modified Product must be clearly distinguished from the original official Product.
+
+---
+
+# 18. TRANSFER, RESALE, AND ASSIGNMENT
+
+**18.1.** Resale, redistribution, or transfer of an unchanged Product is not authorized by default, except to the extent mandatory law provides otherwise.
+
+**18.2.** Transfer of a license may be permitted only when MY IPL or a separate written authorization allows it.
+
+**18.3.** Where transfer is permitted, the transfer must be supported by verifiable documentation, such as a purchase record, a written transfer agreement, or another reliable record establishing the transferor's authority.
+
+**18.4.** The recipient must receive the applicable TCSL and MY IPL terms and agree to comply with them where required by Applicable Law.
+
+**18.5.** Unless the Licensor expressly authorizes otherwise, the transferor must cease using the transferred license after the transfer becomes effective.
+
+**18.6.** Transfer of a license does not automatically transfer copyright ownership or other intellectual property ownership.
+
+**18.7.** Assignment of intellectual property ownership requires a separate legally effective agreement and compliance with Applicable Law.
+
+**18.8.** The historical identity of the original Authors and Contributors must not be falsified or erased merely because ownership changes.
+
+**18.9.** The current Rights Holder may be updated in MY IPL after a valid ownership transfer. The previous Rights Holder and historical transfer record may be retained where appropriate.
+
+**18.10.** Nothing in this Section removes any mandatory legal rights relating to lawful resale, exhaustion of distribution rights, or transfer of a lawfully acquired copy.
+
+---
+
+# 19. PRIVACY, SECURITY, AND LEGAL COMPLIANCE
+
+**19.1.** Each party must comply with Applicable Law when using, modifying, distributing, or processing information related to the Product.
+
+**19.2.** TCSL does not grant permission to use personal data, confidential information, credentials, or restricted information that the Licensor has no authority to disclose.
+
+**19.3.** The Licensee must not publish confidential information or security-sensitive materials that are not part of the authorized Source Materials disclosure.
+
+**19.4.** The Source Materials requirements in Section 11 do not authorize disclosure of unrelated secrets, personal data, credentials, or Third-Party Components.
+
+**19.5.** Where a Product contains confidential materials that cannot lawfully be disclosed, the Licensor must not authorize a form of Modified Distribution that would require their unauthorized disclosure.
+
+**19.6.** Neither party may rely on TCSL to justify unlawful conduct.
+
+---
+
+# 20. WARRANTIES, DISCLAIMERS, AND SUPPORT
+
+**20.1.** Unless MY IPL or a separate written agreement expressly states otherwise, the Product is provided "AS IS" and "AS AVAILABLE" to the maximum extent permitted by Applicable Law.
+
+**20.2.** The Licensor does not guarantee that the Product will be uninterrupted, error-free, compatible with every system, or suitable for every purpose.
+
+**20.3.** The Licensor must not knowingly claim ownership of rights that it does not own or have authority to license.
+
+**20.4.** The Licensee is responsible for determining whether the Product is suitable for the Licensee's intended use.
+
+**20.5.** No maintenance, technical support, updates, or continued availability is promised unless expressly stated in MY IPL or a separate written agreement.
+
+**20.6.** Nothing in this Section excludes mandatory consumer rights, statutory warranties, or other legal protections that cannot be excluded or limited.
+
+---
+
+# 21. RESPONSIBILITY AND LIMITATION OF LIABILITY
+
+**21.1.** Each party remains responsible for its own acts, omissions, representations, and obligations under Applicable Law.
+
+**21.2.** The Licensor is responsible for ensuring that it has the authority it claims to have when granting rights under MY IPL.
+
+**21.3.** The Licensee is responsible for its own unauthorized modifications, distributions, commercial activities, sublicenses, and other uses outside the permissions granted.
+
+**21.4.** The TCSL Publisher is responsible for its own obligations as publisher and maintainer of the TCSL framework. It does not automatically become the Licensor, owner, guarantor, or commercial representative of every Product licensed by an independent adopter.
+
+**21.5.** To the maximum extent permitted by Applicable Law, neither party is liable to the other for indirect, incidental, special, exemplary, or consequential loss arising from use of the Product.
+
+**21.6.** Any additional liability cap must be expressly stated in MY IPL or a separate written agreement and must comply with Applicable Law.
+
+**21.7.** If no enforceable liability cap is specified, liability is determined by Applicable Law.
+
+**21.8.** Nothing in TCSL excludes liability that cannot legally be excluded or limited, including mandatory liability for fraud, intentional misconduct, or personal injury where applicable.
+
+**21.9.** No indemnity obligation is created by implication. Any indemnity must be expressly stated in a separate written agreement or a valid MY IPL clause and must comply with Applicable Law.
+
+---
+
+# 22. TERMINATION AND REINSTATEMENT
+
+**22.1.** The license remains effective for the period specified in MY IPL, subject to the duration of the licensed rights and termination under this Section.
+
+**22.2.** If a Licensee materially breaches TCSL or MY IPL, the Licensor may provide written notice identifying the breach and requesting correction.
+
+**22.3.** Unless a longer period is required by law or specified in the notice, the Licensee has thirty (30) calendar days from receipt of the notice to correct the breach.
+
+**22.4.** If the breach is not corrected within the applicable correction period, the Licensor may terminate the affected license.
+
+**22.5.** The Licensor may suspend or terminate permissions more rapidly where immediate action is reasonably necessary to address serious infringement, unlawful activity, security risks, or substantial harm, subject to Applicable Law.
+
+**22.6.** If the breach is corrected within the applicable period, the license remains effective, unless termination has already become effective under Applicable Law.
+
+**22.7.** Where termination has already taken effect, the Licensor may reinstate the license after the breach has been corrected and reasonable restoration conditions have been satisfied.
+
+**22.8.** Following termination, the Licensee must stop exercising the terminated permissions and must stop further unauthorized distribution.
+
+**22.9.** Termination does not automatically invalidate permissions previously and validly granted to compliant downstream recipients, unless Applicable Law or the terms governing those recipients provide otherwise.
+
+**22.10.** Accrued payment obligations, ownership terms, attribution obligations, confidentiality duties, liability provisions, and other provisions that must survive by their nature remain effective to the extent permitted by law.
+
+**22.11.** Termination does not remove any legal rights or remedies that arose before termination.
+
+---
+
+# 23. GOVERNING LAW AND DISPUTE RESOLUTION
+
+**23.1.** TCSL is governed by the law of the jurisdiction identified in the official TCSL publication notice.
+
+**23.2.** The selected law applies subject to mandatory rules that cannot legally be excluded or displaced.
+
+**23.3.** The parties should first attempt to resolve disputes through good-faith communication and negotiation.
+
+**23.4.** If negotiation does not resolve the dispute within a reasonable period, the parties may mutually agree to mediation or another lawful dispute-resolution procedure.
+
+**23.5.** If the dispute remains unresolved, the parties may pursue the remedies and procedures available before a competent court or other competent authority under Applicable Law.
+
+**23.6.** Nothing in this Section removes mandatory consumer, jurisdictional, or procedural rights.
+
+**23.7.** The Governing Law field must be completed before TCSL is released as an official public licensing document.
+
+---
+
+# 24. VERSIONING AND UPDATES
+
+**24.1.** Each official TCSL release must have a clearly identified version number.
+
+**24.2.** A Product released under a particular TCSL version remains governed by that version unless a valid migration or replacement agreement is made.
+
+**24.3.** Publication of a later TCSL version does not automatically modify the license governing a previously released Product.
+
+**24.4.** A Rights Holder may adopt a later version for a Product through a clearly documented process and with any agreement required by Applicable Law or the existing license.
+
+**24.5.** A Licensee must be able to identify the TCSL version and MY IPL version applicable to the Product.
+
+**24.6.** The TCSL Publisher is responsible for identifying official releases and publishing the corresponding version information.
+
+**24.7.** A revised document must not be represented as an official version unless it has been published or authorized by the TCSL Publisher.
+
+---
+
+# 25. ADOPTION OF THE TCSL FRAMEWORK
+
+**25.1.** TecnoCore Software grants a non-exclusive, royalty-free permission to reproduce and use the unmodified official TCSL text for the purpose of licensing Products under this framework.
+
+**25.2.** A company, developer, organization, or other rights holder may adopt TCSL if it has the authority to license the Product identified in its MY IPL.
+
+**25.3.** An adopting Licensor must identify itself as the responsible Product Licensor in MY IPL.
+
+**25.4.** Adoption of TCSL does not make TecnoCore Software the owner, publisher, maintainer, guarantor, or commercial representative of an independent adopter's Product.
+
+**25.5.** The official TCSL text must not be modified and then represented as the unmodified official TCSL version.
+
+**25.6.** An adopter may create Product-specific terms in MY IPL only within the limits established by TCSL.
+
+**25.7.** A modified or forked licensing framework must not be presented as the official TCSL 1.0 text without authorization from the TCSL Publisher.
+
+**25.8.** Use of TCSL does not grant permission to use TecnoCore Software trademarks, logos, or other brand assets.
+
+**25.9.** Adoption of the framework does not imply that TecnoCore Software has reviewed, certified, endorsed, or approved the adopter's Product.
+
+---
+
+# 26. GENERAL PROVISIONS
+
+**26.1. Severability:** If a provision is found invalid or unenforceable, the remaining provisions continue to apply to the extent permitted by Applicable Law.
+
+**26.2. No Waiver:** Failure to enforce a provision does not constitute a permanent waiver of that provision.
+
+**26.3. Entire Licensing Terms:** TCSL and the applicable MY IPL constitute the licensing terms for the Product, together with any separate written agreement expressly incorporated by reference.
+
+**26.4. Amendments:** Amendments to the terms governing an existing Product must follow Section 24 and Applicable Law.
+
+**26.5. Notices:** Formal notices must be delivered through the contact method identified in MY IPL or the applicable official publication.
+
+**26.6. No Employment or Partnership:** TCSL does not create an employment relationship, partnership, joint venture, agency, or representative relationship between the TCSL Publisher, Licensor, and Licensee.
+
+**26.7. Independent Parties:** Each independent adopter remains responsible for its own Products, rights, representations, and licensing activity.
+
+**26.8. Mandatory Law:** Nothing in TCSL excludes, limits, or waives a right or obligation that cannot legally be excluded, limited, or waived.
+
+**26.9. Language:** The official English text is the controlling version of TCSL unless Applicable Law requires otherwise or an officially designated controlling translation is published.
+
+**26.10. Interpretation:** Headings are provided for convenience and do not independently change the meaning of the provisions.
+
+---
+
+# OFFICIAL PUBLICATION INFORMATION
+
+**TCSL Publisher:** TecnoCore Software  
+**Publisher's Legal Entity:** [To be completed]  
+**Official License Version:** 1.0  
+**Publication Date:** [2026-11-19]  
+**Effective Date:** [2026-11-19]  
+**Governing Law:** [To be completed]  
+**Official Contact:** [To be completed]  
+**Official Publication Location:** [To be completed]
+
+---
+
+# END OF TECNOCORE SOFTWARE LICENSE
+## TCSL VERSION 1.0

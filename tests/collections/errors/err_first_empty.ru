@@ -1,0 +1,2 @@
+e = {}
+printr(first(e))

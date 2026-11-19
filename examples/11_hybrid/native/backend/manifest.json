@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "native",
+  "native": {
+    "targets": {
+      "linux-x86_64": "linux-x86_64/libbackend.so"
+    },
+    "api": {
+      "functions": [
+        { "name": "repeat", "symbol": "notify_repeat", "return": "cstring",
+          "parameters": ["cstring", "int32"] }
+      ]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+printr(2 + 3 * 4)
+printr((2 + 3) * 4)
+printr(10 - 4 - 3)
+printr(100 / 10 / 2)
+printr(1 + 2 * 3 % 4)

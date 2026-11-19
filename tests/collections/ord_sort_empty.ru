@@ -1,0 +1,2 @@
+printr(sort({}))
+printr(reverse({}))

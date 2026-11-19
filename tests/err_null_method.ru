@@ -1,0 +1,2 @@
+car = null
+car.go()

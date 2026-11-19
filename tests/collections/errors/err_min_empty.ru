@@ -1,0 +1,2 @@
+e = {}
+printr(min(e))
